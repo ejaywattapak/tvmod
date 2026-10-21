@@ -1,0 +1,8 @@
+# EJWATT TV MOD - senarai bloat (satu pakej satu baris)
+# Hanya app yang BETUL-BETUL ada dalam TV akan di-disable.
+# Tambah/buang ikut suka. Jangan masukkan pakej penting (systemui, tvsettings, vendor).
+com.google.android.tungsten.setupwraith
+com.google.android.videos
+com.google.android.apps.youtube.music
+com.google.android.play.games
+com.google.android.apps.tv.launcherx
